@@ -5,6 +5,7 @@
 
     <h2 class="footer-heading">{{ site.title | escape }}</h2>
 
+    {%- if site.busy_footer -%}
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
@@ -29,6 +30,7 @@
         <p>{{- site.description | escape -}}</p>
       </div>
     </div>
+    {%- endif -%}
 
     <div class="footer-heading">
       {%- for entry in site.logos -%}

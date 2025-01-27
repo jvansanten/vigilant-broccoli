@@ -20,18 +20,17 @@
 
 lang: de
 
-title: Netzwerk kritisches Denken
+title: Netzwerk "Kritisch Denken Lernen"
 email: kontakt@kritisch-denken-lernen.de
-description: >- # this means to ignore newlines until "baseurl:"
-  Das Netzwerk kritisches Denken verbindet Lehrende, die sich für kritisches
-  Denken in der Gesellschaft einsetzen möchten. Wir bieten Materialien und
-  Austauschmöglichkeiten an die helfen sollen, Methoden des kritischen und
-  rationalen Denkens in den Unterricht zu integrieren.
+description: ""
 baseurl: "/vigilant-broccoli" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
+
+# include description and contact in the footer
+busy_footer: false
 
 logos:
   # FIXME: stash a copy of these logos somewhere
