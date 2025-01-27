@@ -30,6 +30,12 @@
       </div>
     </div>
 
+    <div class="footer-heading">
+      {%- for entry in site.logos -%}
+        {%- include logo-item.html item = entry -%}
+      {%- endfor -%}
+    </div>
+
   </div>
 
 </footer>
