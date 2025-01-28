@@ -5,9 +5,6 @@
 layout: home
 ---
 
-Das Netzwerk "Kritisch Denken Lernen" verbindet Lehrende, die sich für kritisches
-Denken in der Gesellschaft einsetzen möchten. Wir bieten Materialien und
-Austauschmöglichkeiten an die helfen sollen, Methoden des kritischen und
-rationalen Denkens in den Unterricht zu integrieren.
+Die Fähigkeit zum kritischen Denken gewinnt in einer zunehmend komplexen und vernetzten Welt immer mehr an Bedeutung. Das Netzwerk „Kritisch Denken Lernen“ bringt Lehrende zusammen, die sich aktiv für die Förderung und Vermittlung von Methoden des kritischen Denkens in der Gesellschaft einsetzen möchten. Mitglieder des Netzwerks profitieren von Austauschmöglichkeiten und erhalten Zugang zu Materialien, die dabei unterstützen, diese Kompetenzen an Hochschulen, Schulen und anderen Bildungseinrichtungen praxisnah zu fördern.
 
-Wir laden alle Lehrenden an Bildungs- und Forschungsinstitutionen ein, sich zu [unverbindlich zu registrieren](mitmachen) um Zugang zu Netzwerk inklusive allen zur Verfügung stehenden Materlialien zu erlangen.
+Wir laden alle Lehrenden an Bildungs- und Forschungseinrichtungen ein, sich [unverbindlich zu registrieren](mitmachen). Mit der Registrierung erhalten Sie Zugang zum Netzwerk sowie zu sämtlichen bereitgestellten Materialien.
