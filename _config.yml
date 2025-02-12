@@ -36,7 +36,7 @@ logos:
   # FIXME: stash a copy of these logos somewhere
   - name: Humboldt-Universität zu Berlin
     url: https://hu-berlin.de/
-    image: https://upload.wikimedia.org/wikipedia/commons/c/ce/Huberlin-logo.svg
+    image: https://raw.githubusercontent.com/jvansanten/vigilant-broccoli/refs/heads/main/images/hu-berlin.svg
   - name: Deutsches Elektronen-Synchrotron DESY
     url: https://www.desy.de/
     image: https://upload.wikimedia.org/wikipedia/commons/5/55/Desy_logo_3c_web.svg
