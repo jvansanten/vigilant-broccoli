@@ -2,7 +2,6 @@
 layout: page
 title: Mitmachen
 permalink: /mitmachen/
-order: 1
 ---
 
 Das Netzwerk richtet sich an Lehrende an Bildungs- und Forschungsinstitutionen jeglicher Art die Methoden des kritischen Denkens vermitteln möchten. Dazu sammlen wir von Netzwerkmitgliedern erstellte Unterrichts-, Vorlesungs- und Vortragsmaterialien und stellen sie allen Mitgliedern zur verfügung. Dabei sollen möglichst viele verschiedene Zielgruppen angesprochen werden, von Schulkindern bis hin zu Promovierende.
