@@ -23,7 +23,7 @@ lang: de
 title: Netzwerk "Kritisch Denken Lernen"
 email: kontakt@kritisch-denken-lernen.de
 description: ""
-baseurl: "/vigilant-broccoli" # the subpath of your site, e.g. /blog
+baseurl: "/kritisch-denken-lernen" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
