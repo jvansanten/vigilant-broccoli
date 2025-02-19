@@ -27,7 +27,7 @@ jobs:
         with:
           name: github-pages
       - run: |
-            sshpass -e -v scp -o StrictHostKeyChecking=no artifact.tar -vv web0091@www2.hu-berlin.de:
+            sshpass -e -v scp -o StrictHostKeyChecking=no artifact.tar web0091@www2.hu-berlin.de:
     #   - name: Deploy to GitHub Pages
     #     id: deployment
     #     uses: actions/deploy-pages@v4
