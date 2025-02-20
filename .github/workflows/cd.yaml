@@ -26,11 +26,11 @@ jobs:
       - uses: actions/download-artifact@v4
         with:
           name: github-pages
-      - run: |
+      - name: Deploy to server
+        id: deployment
+        run: |
+            sshpass -e scp -o StrictHostKeyChecking=no artifact.tar ${{ secrets.SSH_USER }}@www2.hu-berlin.de:
             cat artifact.tar | sshpass -e ssh -o StrictHostKeyChecking=no ${{ secrets.SSH_USER }}@www2.hu-berlin.de "tar --no-overwrite-dir -xmvf -"
-    #   - name: Deploy to GitHub Pages
-    #     id: deployment
-    #     uses: actions/deploy-pages@v4
     environment:
       name: production
     #   url: ${{ steps.deployment.outputs.page_url }}
