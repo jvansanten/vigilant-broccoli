@@ -9,4 +9,4 @@ Humboldt-Universität zu Berlin\
 Institut für Physik\
 Newtonstrasse 15, D-12489 Berlin
 
-mkowalsk@physik.hu-berlin.de
+[kritisch-denken-lernen@hu-berlin.de](mailto:kritisch-denken-lernen@hu-berlin.de)
