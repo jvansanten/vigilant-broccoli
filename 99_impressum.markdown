@@ -5,6 +5,7 @@ permalink: /impressum/
 ---
 
 Prof. Dr. Marek Kowalski\
+Prof. Dr. Burkhard Priemer\
 Humboldt-Universität zu Berlin\
 Institut für Physik\
 Newtonstrasse 15, D-12489 Berlin
