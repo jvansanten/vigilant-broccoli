@@ -11,7 +11,7 @@ Die Veranstaltung vermittelt in einer Kombination aus Vorlesungs- und Übungsele
 
 Behandelt werden unter anderem:
 
-- Beurteilung von Information und deren Quellen.
+- Beurteilung von Information und deren Quellen,
 - das Erkennen logischer Fehler in Argumentationen,
 - die Vermeidung kognitiver Verzerrungen,
 - der Umgang mit Unsicherheiten in erhobenen Daten,
