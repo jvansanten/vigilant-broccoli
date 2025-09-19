@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} hu-berlin.de$ [NC]
+RewriteRule ^(.*)$ https://kritisch-denken-lernen.de/$1 [L,R=301]
