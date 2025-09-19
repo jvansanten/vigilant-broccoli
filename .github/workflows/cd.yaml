@@ -28,9 +28,9 @@ jobs:
           name: github-pages
       - name: Deploy to server
         id: deployment
+        # NB: tar+rsync song-and-dance to avoid setting permissions on ./ (which is forbidden by the server)
         run: |
-            sshpass -e scp -o StrictHostKeyChecking=no artifact.tar ${{ secrets.SSH_USER }}@www2.hu-berlin.de:
-            cat artifact.tar | sshpass -e ssh -o StrictHostKeyChecking=no ${{ secrets.SSH_USER }}@www2.hu-berlin.de "tar --no-overwrite-dir -xmvf -"
+            cat artifact.tar | sshpass -e ssh -o StrictHostKeyChecking=no ${{ secrets.SSH_USER }}@www2.hu-berlin.de "set -e; mkdir /tmp/tar-extract-$$; tar --no-overwrite-dir -xmvf - -C /tmp/tar-extract-$$; rsync -a --no-times --no-perms --no-owner --no-group /tmp/tar-extract-$$/ ./; rm -rf /tmp/tar-extract-$$"
     environment:
       name: production
     #   url: ${{ steps.deployment.outputs.page_url }}
