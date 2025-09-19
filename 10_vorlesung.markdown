@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Vorlesung Kritisches Denken in Wissenschaft und Gesellschaft
+title: Vorlesung "Kritisches Denken in Wissenschaft und Gesellschaft"
 hidden: true
 permalink: /vorlesung/
 ---
 
-Humboldt-Universität zu Berlin
+*Humboldt-Universität zu Berlin*
 
 Die Veranstaltung vermittelt in einer Kombination aus Vorlesungs- und Übungselementen die in den Wissenschaften etablierten Methoden und Konzepte des kritischen Denkens in allgemeinverständlicher Form. Anhand von Beispielen aus Umwelt, Gesundheit und Wirtschaft wird gezeigt, wie sich diese Ansätze auf unterschiedliche gesellschaftliche Bereiche übertragen lassen.
 
